@@ -145,12 +145,4 @@ O código foi projetado para ser facilmente extensível:
 - Novos tipos de recomendação podem ser implementados
 - A estrutura de dados permite adicionar novos campos aos produtos
 
-Certifique-se de que todos os critérios de aceite são atendidos durante o desenvolvimento do projeto.
 
-## Autor
-
-Desenvolvido por Lucas Silva
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
